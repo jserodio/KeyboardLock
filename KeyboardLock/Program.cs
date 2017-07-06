@@ -6,7 +6,7 @@ namespace KeyboardLock
     static class Program
     {
         /// <summary>
-        /// 应用程序的主入口点。
+        /// Main program
         /// </summary>
         [STAThread]
         static void Main()
